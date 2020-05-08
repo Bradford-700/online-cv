@@ -9,12 +9,12 @@ sidebar:
     # Profile information
     name: Brad Allan Zietsman
     tagline: 3rd Year Undergraduate Student / COS 212 Tutor
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: u15228194@tuks.co.za
     phone: 084 076 3231
-    website: blog.webjeda.com
+    website: 
     linkedin: www.linkedin.com/in/brad-zietsman
     github: Bradfor-700
     gitlab:
@@ -32,133 +32,93 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Fishing
         link:
 
-      - item: Snowboarding
+      - item: Gym
         link:
 
-      - item: Cooking
+      - item: Rugby
         link:
-
+        
+      - item: Photography
+        link:
+        
+      - item: Playing Pool
+        link:
+        
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
-education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+     Currently seeking to grow my individual capital through any and all means available,
+     I am privileged enough to currently be a student at Pretoria University in the field
+     of Information Technology. I hope someday to use this privilege in a field wherein 
+     I can both show innovation and create value in the work I produce. As an individual,
+     I pride myself on living with passion and zest, an attitude I carry through into the
+     work environment. I am in equal parts ambitious, enthusiastic and committed with a 
+     genuine interest in working as a team to tackle problem solving tasks.
+    education:
+    - degree: Matriculation, IEB
+      university: Thomas More Collage 
+      time: 2002 - 2014
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Bachelor of Science in Information Technology
+      university: University of Pretoria 
+      time: 2015 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+    - role: Waitron
+      time: 01/12/2018 – 31/01/2019
+      company: Cut & Craft Bistro, 159 Queens Street, Kensington, Gauteng, South Africa
+      details: #|
+       # Describe your role here lorem ipsum dolor sit amet, consectetuer
+       # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+       # Cum sociis natoque penatibus et magnis dis parturient montes,
+       # nascetur ridiculus mus. Donec quam felis, ultricies nec,
+       # pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+       # enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+       # error sit voluptatem accusantium doloremque laudantium, totam rem
+       # aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+       # architecto beatae vitae dicta sunt explicabo.
+       #   - Bullet point
+       #   - Bullet point
+    - role: Tutor
+      time: 2020 - Present
+      company: University of Pretoria, Lynnwood Rd, Hatfield, Pretoria, South Africa
+      details: #|
+       # Describe your role here lorem ipsum dolor sit amet, consectetuer
+       # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+       # Cum sociis natoque penatibus et magnis dis parturient montes,
+       # nascetur ridiculus mus. Donec quam felis, ultricies nec,
+       # pellentesque eu, pretium quis, sem.
+       #   - Bullet point
+       #   - Bullet point
+# projects:
+#    title: Projects
+#    intro: >
+#      You can list your side projects or open source libraries in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#    assignments:
+#      - title: Velocity
+#        link: "#hook"
+#        tagline: "A responsive website template designed to help startups promote, market and sell their products."#
+#
+#      - title: DevStudio
+#        link: "#"
+#        tagline: "A responsive website template designed to help web developers/designers market their services."#
+#
+#      - title: Tempo
+#        link: "#"
+#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#
+#      - title: Atom
+#        link: "#"
+#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#
+#      - title: Delta
+#        link: "#"
+#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 skills:
     title: Skills &amp; Proficiency
