@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: u15228194@tuks.co.za
+    email: brad.zietsman@gmail.com
     phone: 084 076 3231
     website: 
     linkedin: linkedin.com/in/brad-zietsman/
@@ -32,76 +32,92 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Fishing
+      - item: Artificial Intelligence
         link:
 
-      - item: Gym
+      - item: Cloud Computing
         link:
 
+      - item: Security
+        link:
+        
+      - item: Gaming
+        link:
+        
+      - item: Chess
+        link:
+        
       - item: Rugby
         link:
         
-      - item: Playing Pool
+      - item: Gym
         link:
         
-      - item: Photography
+      - item: MMA
         link:
-        
 career-profile:
     title: Career Profile
     summary: |
-     Currently seeking to grow my individual capital through any and all means available,
-     I am privileged enough to currently be a student at Pretoria University in the field
-     of Information Technology. I hope someday to use this privilege in a field wherein 
-     I can both show innovation and create value in the work I produce. As an individual,
-     I pride myself on living with passion and zest, an attitude I carry through into the
-     work environment. I am in equal parts ambitious, enthusiastic and committed with a 
-     genuine interest in working as a team to tackle problem solving tasks.
+     Currently seeking to grow as an individual through any and all means 
+     available. I am privileged enough to have attended Pretoria University
+     in the field of Information Technology. I hope someday to use this
+     privilege in a field wherein I can both show innovation and create
+     value in the work I produce. As an individual, I pride myself on living
+     with passion and zest, an attitude I carry through into the work
+     environment. I am in equal parts ambitious, enthusiastic with a keen
+     mind for learning, problem solving, abstract reasoning and selfimprovement.
+
     education:
     - degree: Matriculation, IEB
       university: Thomas More Collage 
-      time: 2002 - 2014
+      time: 2003 - 2014
       details: |
     - degree: Bachelor of Science in Information Technology
       university: University of Pretoria 
-      time: 2015 - 2020
+      time: 2016 - 2020
       details: |
 experiences:
+    - role: Leader of Team Sigma (Capstone Project)
+      time: 08/05/2020 – 18/10/2020
+      company: EPI-USE Labs
+      details: |
+       During my final year at varsity, I was fortunate enough to work in a fine group of 6 hardworking students. About a 
+       month into the project our former leader got diagnosed with Osteosarcoma and was forced to discontinue the module.
+       With the support of my team I was selected to lead our team towards our end goal. Our Clients at EPI-USE Labs tasked
+       us (Team Sigma) with designing a Home Security System called Argus. Argus is a multi-platform web application capable
+       of instantly identifying threats on multiple camera feeds around a one's home whilst also notifying them in real time
+       either via Email or SMS of any potential threats picked up by the system. Being leader taught me a lot about team
+       management and organization, acknowledging where your team members interest and strengths/skills may reside is
+       also imperative as it allows for tasks when assigned to be delivered on time. Listening and constant communication was
+       another skill I thought to be crucial to the project’s success as lockdown due to COVID-19 was happening meaning all
+       forms of communication and strategizing had to occurred online. By using an Agile methodology with daily stand-ups
+       and biweekly sprints we were able to keep ahead of schedule.
+    - role: Tutor
+      time: 03/02/2020 – 03/07/2020
+      company: University of Pretoria
+      details: |
+       As a Tutor I was tasked with marking, setting up practical assignments, consultations and giving 2-hours lectures every
+       week. Tutoring gave me a lot of confidence when it came to public speaking especially in front of large groups of
+       people. I designed my own presentations and was always open to criticism as anything I could do to improve would
+       only benefit the students that I was so eager to teach.
     - role: Waitron
       time: 01/12/2018 – 31/01/2019
-      company: Cut & Craft Bistro, 159 Queens Street, Kensington, Gauteng, South Africa
-      details: #|
-       # Describe your role here lorem ipsum dolor sit amet, consectetuer
-       # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-       # Cum sociis natoque penatibus et magnis dis parturient montes,
-       # nascetur ridiculus mus. Donec quam felis, ultricies nec,
-       # pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-       # enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-       # error sit voluptatem accusantium doloremque laudantium, totam rem
-       # aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-       # architecto beatae vitae dicta sunt explicabo.
-       #   - Bullet point
-       #   - Bullet point
-    - role: Tutor
-      time: 2020 - Present
-      company: University of Pretoria, Lynnwood Rd, Hatfield, Pretoria, South Africa
-      details: #|
-       # Describe your role here lorem ipsum dolor sit amet, consectetuer
-       # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-       # Cum sociis natoque penatibus et magnis dis parturient montes,
-       # nascetur ridiculus mus. Donec quam felis, ultricies nec,
-       # pellentesque eu, pretium quis, sem.
-       #   - Bullet point
-       #   - Bullet point
-# projects:
-#    title: Projects
+      company: Cut & Craft Bistro
+      details: |
+       Working as a Waiter taught me many people skills especially when it came to dealing with customers and how to
+       correctly handle conflict whilst simultaneously working towards an agreeable solution which would still meet the
+       customer’s needs. Another valuable lesson I learned was how to push through and keep my head up even under
+       pressure, this has also helped me during my studies with time management when it came to meeting deadlines.
+    - 
+ projects:
+    title: Projects
 #    intro: >
 #      You can list your side projects or open source libraries in this
 #      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 #      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#    assignments:
-#      - title: Velocity
-#        link: "#hook"
+    assignments:
+      - title: Argus
+        link: https://github.com/COS301-SE-2020/Home-Security-System
 #        tagline: "A responsive website template designed to help startups promote, market and sell their products."#
 #
 #      - title: DevStudio
@@ -124,23 +140,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: C
-        level: 60%
-        
       - name: C++
-        level: 90%
+        level: 85%
         
       - name: C#
         level: 70%
 
       - name: Java
+        level: 85%
+        
+      - name: Python
+        level: 70%
+        
+      - name: HTML5 & CSS & BootStrap
         level: 90%
         
-      - name: Javascript & jQuery & AJAX
-        level: 90%
-
-      - name: HTML5 & CSS & BootStrap
-        level: 95%
+      - name: Javascript & JQuery & AJAX
+        level: 80%
 
       - name: PHP
         level: 85%
@@ -148,23 +164,26 @@ skills:
       - name: MySQL
         level: 95%
         
+      - name: PostgreSQL
+        level: 95%
+        
       - name: MongoDB
         level: 85%
         
       - name: Neo4j
-        level: 70%
+        level: 65%
         
-      - name: XML & DTD & Schema's & XSLT
+      - name: XML, DTD & XSLT
         level: 80%
         
       - name: Assembly
         level: 85%
         
       - name: Prolog
-        level: 70%
+        level: 60%
         
       - name: Scheme
-        level: 80%
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
