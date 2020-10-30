@@ -108,16 +108,15 @@ experiences:
        correctly handle conflict whilst simultaneously working towards an agreeable solution which would still meet the
        customer’s needs. Another valuable lesson I learned was how to push through and keep my head up even under
        pressure, this has also helped me during my studies with time management when it came to meeting deadlines.
-    - 
- projects:
-    title: Projects
+# projects:
+#    title: Projects
 #    intro: >
 #      You can list your side projects or open source libraries in this
 #      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 #      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Argus
-        link: https://github.com/COS301-SE-2020/Home-Security-System
+#    assignments:
+#      - title: Argus
+#        link: https://github.com/COS301-SE-2020/Home-Security-System
 #        tagline: "A responsive website template designed to help startups promote, market and sell their products."#
 #
 #      - title: DevStudio
@@ -138,7 +137,6 @@ experiences:
 
 skills:
     title: Skills &amp; Proficiency
-
     toolset:
       - name: C++
         level: 85%
@@ -186,4 +184,4 @@ skills:
         level: 70%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Brad Zietsman</a>
