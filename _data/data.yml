@@ -65,7 +65,7 @@ career-profile:
      value in the work I produce. As an individual, I pride myself on living
      with passion and zest, an attitude I carry through into the work
      environment. I am in equal parts ambitious, enthusiastic with a keen
-     mind for learning, problem solving, abstract reasoning and self-improvement.
+     mind for learning, problem solving, abstract reasoning and self improvement.
 
     education:
     - degree: Bachelor of Science in Information Technology
@@ -150,10 +150,10 @@ skills:
       - name: Python
         level: 70%
         
-      - name: HTML5 & CSS & BootStrap
+      - name: HTML5, CSS & BootStrap
         level: 90%
         
-      - name: Javascript & JQuery & AJAX
+      - name: Javascript, JQuery & AJAX
         level: 80%
 
       - name: PHP
