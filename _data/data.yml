@@ -68,13 +68,13 @@ career-profile:
      mind for learning, problem solving, abstract reasoning and selfimprovement.
 
     education:
-    - degree: Matriculation, IEB
-      university: Thomas More Collage 
-      time: 2003 - 2014
-      details: |
     - degree: Bachelor of Science in Information Technology
       university: University of Pretoria 
       time: 2016 - 2020
+      details: |
+    - degree: Matriculation, IEB
+      university: Thomas More Collage 
+      time: 2003 - 2014
       details: |
 experiences:
     - role: Leader of Team Sigma (Capstone Project)
